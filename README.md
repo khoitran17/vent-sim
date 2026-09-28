@@ -1,6 +1,6 @@
 website version of vent sim using the original TS code from the vite mobile lite, for drs to mess with, should match the python as well
 
-##Metrics
+## Metrics
 
 - VT (mL) = VT/kg × PBW
 - Driving pressure = VT / C
